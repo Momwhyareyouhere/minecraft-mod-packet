@@ -1,0 +1,13 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:client_command": {
+    "description": {
+      "identifier": "ping",
+      "is_silent": false,
+      "is_hidden": false
+    },
+    "run_command": {
+      "command": "say Pong! Mod Packet"
+    }
+  }
+}
